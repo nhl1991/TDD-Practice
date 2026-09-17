@@ -6,3 +6,7 @@
 
 # jest coverage
 /coverage
+
+
+# md files
+jest-mock-tutorial.md
